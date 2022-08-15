@@ -68,9 +68,9 @@ body {
     margin: 0;
     /* font-family: 'Noto Sans Display', sans-serif; */
     /* font-family: 'Gotu', sans-serif; */
-    font-family: 'Big Shoulders Text', cursive !important;
+    /* font-family: 'Big Shoulders Text', cursive !important; */
     /* font-family: 'Fahkwang', sans-serif; */
-    /* font-family: 'Be Vietnam Pro', sans-serif; */
+    font-family: 'Be Vietnam Pro', sans-serif;
     font-size: 0.9375rem;
     font-weight: 500;
     line-height: 1.6;
