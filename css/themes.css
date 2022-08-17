@@ -22564,13 +22564,13 @@ input.checkbox-primary[type="checkbox"] {
         background-image: url('../images/bg-section-1-mobile.png') !important;
     }
     #section-02 {
-        background-image: url('../images/scroll-navigation-02-mobile-optimized.jpg') !important;
+        background-image: url('../images/bg-section-2-mobile.png') !important;
     }
     #section-03 {
-        background-image: url('../images/scroll-navigation-03-mobile.jpg') !important;
+        background-image: url('../images/bg-section-3-mobile.png') !important;
     }
     #section-04 {
-        background-image: url('../images/scroll-navigation-04-mobile.jpg') !important;
+        background-image: url('../images/bg-section-4-mobile.png') !important;
     }
     #section-02 .container .row .col-xl-5 .text-primary {
         color: #fff !important;
