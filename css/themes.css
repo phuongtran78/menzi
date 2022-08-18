@@ -70,7 +70,7 @@ body {
     /* font-family: 'Gotu', sans-serif; */
     /* font-family: 'Big Shoulders Text', cursive !important; */
     /* font-family: 'Fahkwang', sans-serif; */
-    font-family: 'Be Vietnam Pro', sans-serif;
+    font-family: 'Barlow', sans-serif;
     font-size: 0.9375rem;
     font-weight: 500;
     line-height: 1.6;
@@ -16334,6 +16334,10 @@ a.text-light:focus {
     color: #4c4c4c !important;
 }
 
+.text-blue{
+    color: #011631 !important;
+}
+
 a.text-dark:hover,
 a.text-dark:focus {
     color: #121416 !important;
@@ -16489,15 +16493,11 @@ a.text-white:focus {
 }
 
 .custom-font-3 {
-    font-family: 'Alegreya Sans SC', sans-serif;
+    font-family: 'Trirong', serif;
 }
 
 .custom-font-4 {
-    font-family: 'Meow Script', cursive;
-}
-
-.custom-font-5 {
-    font-family: 'Oooh Baby', cursive;
+    font-family: 'Barlow', sans-serif;
 }
 
 .custom-font-6 {
@@ -16506,9 +16506,9 @@ a.text-white:focus {
 .custom-font-8 {
     font-family: 'Big Shoulders Text', cursive;
 }
-.custom-font-9 {
+/* .custom-font-9 {
     font-family: 'Grenze Gotisch', cursive;
-}
+} */
 
 .custom-font-10 {
     font-family: menzifont;
